@@ -3,6 +3,6 @@ Individual Project for Hyper Island's Data Analyst Program.
 - Conducting exploratory data analysis, data-driven insights and informed decision-making.
 
 Files:
-- .ipynb file containing the ETL process.
-- .twb file containing interactive charts and dashboards.
-- .pdf file containing the final presentation.
+- .ipynb containing the ETL process.
+- .twb containing interactive charts and dashboards.
+- .pdf containing the final presentation.
